@@ -1,0 +1,8 @@
+Output
+*.emSession
+*.jlink
+*uvguix.*
+JLinkLog.txt
+build
+*.scvd
+
